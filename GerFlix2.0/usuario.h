@@ -1,7 +1,7 @@
 #ifndef USUARIO_H_INCLUDED
 #define USUARIO_H_INCLUDED
 typedef struct{
-    int idUsuario;
+    int idUsuario;  /* PK*/
     char nombre[50];
 }eUsuario;
 

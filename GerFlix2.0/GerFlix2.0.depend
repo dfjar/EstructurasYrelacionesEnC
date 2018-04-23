@@ -5,7 +5,16 @@
 
 1524486465 source:c:\test\jose\estructurasyrelacionesenc\gerflix2.0\usuarioserie.c
 
-1524487419 source:c:\test\jose\estructurasyrelacionesenc\gerflix2.0\main.c
+1524494923 source:c:\test\jose\estructurasyrelacionesenc\gerflix2.0\main.c
 	<stdio.h>
 	<stdlib.h>
+	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
+
+1524494313 c:\test\jose\estructurasyrelacionesenc\gerflix2.0\serie.h
+
+1524491928 c:\test\jose\estructurasyrelacionesenc\gerflix2.0\usuario.h
+
+1524490166 c:\test\jose\estructurasyrelacionesenc\gerflix2.0\usuarioserie.h
 
